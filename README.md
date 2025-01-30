@@ -68,9 +68,7 @@ Export tasks to CSV/JSON
 
 Feel free to fork this repository and submit pull requests for improvements. Any suggestions and contributions are welcome!
 
-📜 License
 
-This project is licensed under the MIT License.
 
 
 
